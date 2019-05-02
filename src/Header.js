@@ -8,7 +8,7 @@ class Header extends Component {
       <header className="Header">
         <img src={logo} className="Logo" alt="logo" />
         <p>
-          🐙 Edit <code>src/App.js</code> and save to reload.
+          🐙 Sams <code>Sleeping App</code>
         </p>
         <a
           className="Link"
@@ -16,7 +16,7 @@ class Header extends Component {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn More
+           -Learn More
         </a>
       </header>
     )

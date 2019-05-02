@@ -59,6 +59,7 @@ class DynamicForm extends Component {
             <option value="08:30 AM">08:30 AM</option>
             <option value="09:00 AM">09:00 AM</option>
             <option value="09:30 AM">09:30 AM</option>
+
           </select>
           <br />
           <input type="submit" id="submit" className="Submit" />
